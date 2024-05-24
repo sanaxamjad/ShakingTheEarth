@@ -1,4 +1,4 @@
-# Shaking the Earth: An Exploration of Global Earthquake Activity in 2020
+# Shaking the Earth: An Exploration of Global Earthquake Activity in 2020 🌎
 
 ## [Project Link](https://perkertik.github.io/Final-Project-Earthquake/)
 
